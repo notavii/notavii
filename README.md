@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hello, this is Avinash.<br>
-Currently studying in IIT Guwahati.
+👋 I’m a sophomore at the Indian Institute of Technology, Guwahati pursuing my B.Tech in Civil Engineering..
 
 
 ## 🌐 Socials:
